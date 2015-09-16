@@ -7,7 +7,7 @@
     <artifactId>lojavirtual-website</artifactId>
     <version>1.0</version>
     <packaging>pom</packaging>
-    <name>loja-virtual-devops</name>
+    <name>loja-virtual-devops2</name>
     <url>http://www.devopsnapratica.com.br</url>
     <properties>
         <blc.version>2.2.0-GA</blc.version>
